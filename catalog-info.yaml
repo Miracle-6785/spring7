@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "spring7"
+  description: "A component that is part of the DevSecOps catalog"
+  annotations:
+    
+    jenkins.io/job-full-name: spring7-org/spring7-job
+    
+
+    
+    sonarqube.org/project-key: default/spring7
+    
+
+    dependencytrack/project-id: ""
+    cloud-service/app-info: ""
+    backstage.io/techdocs-ref: dir:.
+
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental

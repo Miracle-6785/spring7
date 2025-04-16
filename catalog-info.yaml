@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: default/spring7
     
 
-    dependencytrack/project-id: ""
+    dependencytrack/project-id: "7f7aa413-9994-41b5-80eb-5f38a1125c1e"
     cloud-service/app-info: ""
     backstage.io/techdocs-ref: dir:.
 
